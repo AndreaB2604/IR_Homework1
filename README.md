@@ -13,6 +13,7 @@ I file
 - TF_IDF_1.* fanno riferimento alla run con Stoplist, Porter stemmer, TF*IDF = Run 2
 - BM25b0.75_2.* fanno riferimento alla run con No stoplist, Porter Stemmer, BM25 = Run 3
 - TF_IDF_3.* fanno riferimento alla run con No stoplist, No stemmer, TF*IDF = Run 4
+
 All'interno c'è anche la cartella "Ignore_low_idf" che contiene i risultati delle quattro run dove nel file terrier.properties è stato inserito anche il parametro ignore.low.idf.terms=true come spiegato nella relazione.
 
 
